@@ -33,6 +33,12 @@
 # SDK GUI设计
 # IteadOS全部源码托管到Github
 
+# Hang
+
+- Linux共享目录根本解决
+
+
+
 
 # 提示： 博客
 
