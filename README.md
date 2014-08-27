@@ -35,6 +35,7 @@
 
 # Hang
 
+- Debian Ibox打印机
 - Linux共享目录根本解决
 
 
