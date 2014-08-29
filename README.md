@@ -30,7 +30,12 @@
 # 当前
 
 - 测试WIFI解决8192固件问题
-- 分析邮件，整理下一步任务
+- ITEADOS NAND 烧写
+- 串口WIFI库的评估
+  - http://pan.baidu.com/s/1kToky7H
+  - http://arduino.cc/en/Reference/WiFi
+- OLED 屏幕的 Arduino library
+
 
 # 挂起
 
