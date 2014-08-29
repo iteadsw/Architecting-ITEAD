@@ -27,24 +27,25 @@
 
 --------------------------------------------------------------------------------
 
+# 当前
+
+- 测试WIFI解决8192固件问题
+- 分析邮件，整理下一步任务
+
 # 挂起
 
-- IteadOS 烧写至NANDFLASH
-- Arduino OLED 128X64库移植
-- Arduino 串口WIFI库移植
-- Linux共享目录根本解决，提工作效
+- Linux共享目录根本解决，提高工作效率
 - 搜集更多更全Linux命令，提高工作效率
 - Debian下的更多应用程序探索与尝试，提高工作效率
 
-# [Okay] 使IteadOS SDK支持中断
-# [Okay] 将SDK和FBTFT打包为.deb
-# 逻辑分析仪代码分析Python学习
-# WxPython学习
-# SDK GUI设计
-# IteadOS全部源码托管到Github
+# 长期
 
-
-
+- [Okay] 使IteadOS SDK支持中断
+- [Okay] 将SDK和FBTFT打包为.deb
+- [On20] 逻辑分析仪代码分析Python学习
+- WxPython学习
+- SDK GUI设计
+- IteadOS全部源码托管到Github
 
 
 # 提示： 博客
