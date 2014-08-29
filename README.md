@@ -29,7 +29,8 @@
 
 # 当前
 
-- 测试WIFI解决8192固件问题
+- [Okay] 测试WIFI解决8192固件问题
+- 更新IteadOS镜像到2.0.7以支持该wifi模块
 - ITEADOS NAND 烧写
 - 串口WIFI库的评估
   - http://pan.baidu.com/s/1kToky7H
