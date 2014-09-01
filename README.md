@@ -5,11 +5,11 @@
 # 当前
 
 - ITEADOS NAND 烧写
+- 更新镜像：在新镜像中安装最新SDK，python-tk
 - 串口WIFI库的评估
   - http://pan.baidu.com/s/1kToky7H
   - http://arduino.cc/en/Reference/WiFi
 - OLED 屏幕的 Arduino library
-
 
 # 长期
 
