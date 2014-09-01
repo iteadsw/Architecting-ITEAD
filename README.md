@@ -36,14 +36,6 @@
 - OLED 屏幕的 Arduino library
 
 
-# 挂起
-
-- Linux共享目录根本解决，提高工作效率
-- 搜集更多更全Linux命令，提高工作效率
-- Debian下的更多应用程序探索与尝试，提高工作效率
-- IteadOS全部源码托管到Github
-
-
 # 长期
 
 - [Okay] 使IteadOS SDK支持中断
@@ -52,6 +44,12 @@
 - WxPython学习
 - SDK GUI设计
 
+# 挂起
+
+- Linux共享目录根本解决，提高工作效率
+- 搜集更多更全Linux命令，提高工作效率
+- Debian下的更多应用程序探索与尝试，提高工作效率
+- IteadOS全部源码托管到Github
 
 
 # 提示： 博客
