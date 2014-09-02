@@ -5,4 +5,6 @@
 - lsusb
 - spawn和expect
 - ssh
+- sync
+- rsync
 
