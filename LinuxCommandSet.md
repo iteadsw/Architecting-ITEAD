@@ -7,4 +7,4 @@
 - ssh
 - sync
 - rsync
-
+- losetup
