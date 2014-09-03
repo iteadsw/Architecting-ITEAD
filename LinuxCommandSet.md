@@ -8,3 +8,6 @@
 - sync
 - rsync
 - losetup
+- sfdisk
+- mkfs.ext3 loopback.img
+  - sudo mount -o loop loopback.img mnt-loop
