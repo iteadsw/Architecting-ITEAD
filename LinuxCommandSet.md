@@ -10,6 +10,7 @@
 - losetup
 - sfdisk
 - mkswap
+- awk
 
 Let's create an empty image that we format with a filesystem and mount it.
 
