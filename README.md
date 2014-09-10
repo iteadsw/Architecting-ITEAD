@@ -4,12 +4,23 @@
 
 # 当前
 
-- ITEADOS NAND 烧写
-- 更新镜像：在新镜像中安装最新SDK，python-tk
+- [Okay]ITEADOS NAND 烧写
+- IteadOS全部源码托管到Github
+- 写文档
+- SDK将需要
+  - 删除中断模块，从IteadOS-3.0.0之后，itead_gpio_int.ko将在镜像中安装。无需在SDK里面。
+  - 添加注释，方便生成文档，并把当前版本的帮助文档放在SDK/doc目录下
+  - 将SDK相关的GPIO对照表放在SDK/tools下面
+  - 将IteadOS_A20_09051120_defconfig 更新为SDK/tool/iteaduino_plus_a20_defconfig
+  - 在tool/final-.rule中添加对itead_gpio_int的权限控制
+
 - 为SDK提供Python接口
+- 更新SDK
+- 更新镜像：在新镜像中安装最新SDK，python-tk
 - 串口WIFI库的评估
   - http://pan.baidu.com/s/1kToky7H
   - http://arduino.cc/en/Reference/WiFi
+
 - OLED 屏幕的 Arduino library
 
 # 长期
@@ -25,7 +36,6 @@
 - Linux共享目录根本解决，提高工作效率
 - 搜集更多更全Linux命令，提高工作效率
 - Debian下的更多应用程序探索与尝试，提高工作效率
-- IteadOS全部源码托管到Github
 
 
 # 提示： 文档
