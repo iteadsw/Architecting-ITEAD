@@ -8,6 +8,7 @@
 - [Okay]IteadOS全部源码托管到Github
 
 - SDK更新
+
   - 删除中断模块，从IteadOS-3.0.0之后，itead_gpio_int.ko将在镜像中安装。无需在SDK里面。
   - 将SDK相关的GPIO对照表放在SDK/tools下面
   - 将IteadOS_A20_09051120_defconfig 更新为SDK/tool/iteaduino_plus_a20_defconfig
@@ -17,10 +18,10 @@
   - 添加注释，方便生成文档，并把当前版本的帮助文档放在SDK/doc目录下
   - 为SDK提供Python接口
 
-
 - 更新镜像：在新镜像中安装最新SDK，python-tk
 
 - 写文档
+
   - 目标：编写文档SDK相关
   - 目录
 
@@ -30,6 +31,7 @@
             4. SPI设备演示 （Python GUI）
       
 - 串口WIFI库的评估
+
   - http://pan.baidu.com/s/1kToky7H
   - http://arduino.cc/en/Reference/WiFi
 
