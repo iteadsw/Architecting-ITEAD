@@ -14,6 +14,7 @@
     - 删除SDK/tools/目录下的*.fex和*_defconfig文件
     - 在tool/final-.rule中添加对itead_gpio_int的权限控制
     - 替换IteadOS为ITEAD-OS
+    - 优化Makefile中的chmod方法
 
 - SDK更到新2.9.3
 
