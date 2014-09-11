@@ -9,13 +9,6 @@
 
 - [Okay]SDK更新到2.9.2
 
-    - 删除中断模块，从IteadOS-2.9.1（不含）之后，itead_gpio_int.ko将在镜像中安装。
-      无需在SDK里面。
-    - 删除SDK/tools/目录下的*.fex和*_defconfig文件
-    - 在tool/final-.rule中添加对itead_gpio_int的权限控制
-    - 替换IteadOS为ITEAD-OS
-    - 优化Makefile中的chmod方法
-
 - SDK更到新2.9.3
 
   - 将SDK相关的GPIO对照表放在SDK/tools下面
