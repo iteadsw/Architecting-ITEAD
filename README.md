@@ -50,18 +50,6 @@
 - Debian下的更多应用程序探索与尝试，提高工作效率
 
 
-# 提示： 文档
-
-- 9月4日ITEAD OS 安装说明WPF、Sherry 有在不同的系统下安装ITEAD OS 。。MAC、WIN、LinUX
-- 9月5日ITEAD SDK入门简介WPF 部分SDK功能说明；SDK安装；SDK架构等等内容。。。
-- 9月13日板载器件使用：IR WPF 无安装IR驱动，读取遥控键值，并根据键值做不同动作，比如，打开某个软件、关机等操作
-- 9月9日板载器件使用：固定MAC地址Sherry 有现成文档
-- 9月15日外接器件：Access The GPIO LIZQ、WPF 部分点亮LED ,读取Sensor Brick 数字量输出；中断；Python界面，控制LED等
-- 9月9日外接器件：I2C：OLED SSD1306、SHT1x Jerry、WPF
-  无使用电子积木、树莓ADD-on进行演示；Python界面；播放动画，读取CPU占用率；温度显示；
-- 9月20日外接器件：SPI：nrf24l01+libnfc Jerry、WPF 无硬件连接、数据收发；Python界面直接显示收到的舒服、图形界面发送数据
-
-
 # 提示： 更新SDK的git操作
 
 ## 下载最新的SDK并修改
