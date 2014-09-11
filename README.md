@@ -5,7 +5,7 @@
 # 当前
 
 - [Okay]ITEADOS NAND 烧写
-- IteadOS全部源码托管到Github
+- [Okay]IteadOS全部源码托管到Github
 - 写文档
 - SDK将需要
   - 删除中断模块，从IteadOS-3.0.0之后，itead_gpio_int.ko将在镜像中安装。无需在SDK里面。
