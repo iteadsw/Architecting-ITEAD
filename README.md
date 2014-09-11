@@ -13,6 +13,7 @@
   - 将SDK相关的GPIO对照表放在SDK/tools下面
   - 将IteadOS_A20_09051120_defconfig 更新为SDK/tool/iteaduino_plus_a20_defconfig
   - 在tool/final-.rule中添加对itead_gpio_int的权限控制
+  - 替换IteadOS为ITEAD-OS
 
 - 为SDK提供Python接口
 - 更新SDK
