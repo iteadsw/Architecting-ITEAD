@@ -7,16 +7,17 @@
 - [Okay]ITEADOS NAND 烧写
 - [Okay]IteadOS全部源码托管到Github
 
-- SDK更新1
+- SDK更新到2.9.2
 
-  - 删除中断模块，从IteadOS-3.0.0之后，itead_gpio_int.ko将在镜像中安装。无需在SDK里面。
+    - 删除中断模块，从IteadOS-2.9.1（不含）之后，itead_gpio_int.ko将在镜像中安装。
+      无需在SDK里面。
+    - 删除SDK/tools/目录下的*.fex和*_defconfig文件
+    - 在tool/final-.rule中添加对itead_gpio_int的权限控制
+    - 替换IteadOS为ITEAD-OS
+
+- SDK更到新2.9.3
+
   - 将SDK相关的GPIO对照表放在SDK/tools下面
-  - 将IteadOS_A20_09051120_defconfig 更新为SDK/tool/iteaduino_plus_a20_defconfig
-  - 在tool/final-.rule中添加对itead_gpio_int的权限控制
-  - 替换IteadOS为ITEAD-OS
-
-- SDK更新2
-
   - 添加注释，方便生成文档，并把当前版本的帮助文档放在SDK/doc目录下
   - 为SDK提供Python接口
 
