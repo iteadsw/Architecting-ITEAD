@@ -11,10 +11,6 @@
 
 - SDK更到新2.9.3
 
-  - 将SDK相关的GPIO对照表放在SDK/tools下面
-  - 添加注释，方便生成文档，并把当前版本的帮助文档放在SDK/doc目录下
-  - 为SDK提供Python接口
-
 - 更新镜像：在新镜像中安装最新SDK，python-tk
 
 - 写文档
