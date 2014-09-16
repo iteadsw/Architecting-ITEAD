@@ -99,13 +99,13 @@
     
     如果需要，则删除一个分支： git branch -D branchname
     
-    git branch IteadOS-SDK-tag_name tag_name
+    git branch ITEAD-SDK-tag_name tag_name
     
     git push origin --tags
     
     git push origin master:master
     
-    git push origin IteadOS-SDK-tag_name:IteadOS-SDK-tag_name
+    git push origin ITEAD-SDK-tag_name:ITEAD-SDK-tag_name
 
 ## Well done !
 
