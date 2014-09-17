@@ -9,7 +9,9 @@
 
 - [Okay]SDK更新到2.9.2
 
-- SDK更到新2.9.3
+- [Okay]SDK更到新2.9.5
+
+- 编写SDK的Python接口
 
 - 更新镜像：在新镜像中安装最新SDK，python-tk
 
