@@ -1,3 +1,34 @@
+# git 
+
+    GIT_SSL_NO_VERIFY=1 git clone https://github.com/iteadsw/SDK.git
+    
+    # 设置本地分支为branchname的远程跟踪分支
+    git  branch --set-upstream  branchname itead/branchname
+    
+    # 获取更新并对比
+    git fetch --all
+    git diff master..origin/master
+    
+    # 合并
+    git merge branchname
+    
+    # 查看冲突
+    git status
+    
+    解决冲突
+    
+    # 提交合并
+    git commit -a -m "Merged by Wu Pengfei"
+    
+    # 创建分支
+    git branch bname
+    git branch bname tagname
+    git checkout -b bname
+    git checkout -b bname tagname
+    
+
+# git checkout
+
 下面通过一些示例具体看一下检出命令的不同用法。
 
     $ git checkout branch
