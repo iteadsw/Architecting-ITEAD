@@ -13,6 +13,7 @@
 - awk
 - sed
 - md5sum
+- cron
 
 Let's create an empty image that we format with a filesystem and mount it.
 
