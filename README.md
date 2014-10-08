@@ -13,7 +13,11 @@
 
 - 编写SDK的Python接口
 
-- 更新镜像：在新镜像中安装最新SDK，python-tk
+- 更新SDK到2.9.6
+
+- 更新镜像从2.0.7到2.0.9：
+
+    - 在新镜像中安装最新SDK，python-tk, python-dev
 
 - 写文档
 
