@@ -21,18 +21,18 @@
 
 - 写文档
 
-  - 目标：编写文档SDK相关
-  - 目录
+    - 目标：编写文档SDK相关
+    - 目录
 
-            1. ITEAD－SDK入门简介
-            2. 板载IR使用演示（根据键值做出相应）
-            3. I2C设备演示 （Python GUI）
-            4. SPI设备演示 （Python GUI）
+        1. ITEAD－SDK入门简介
+        2. 板载IR使用演示（根据键值做出相应）
+        3. I2C设备演示 （Python GUI）
+        4. SPI设备演示 （Python GUI）
       
 - 串口WIFI库的评估
 
-  - http://pan.baidu.com/s/1kToky7H
-  - http://arduino.cc/en/Reference/WiFi
+    - http://pan.baidu.com/s/1kToky7H
+    - http://arduino.cc/en/Reference/WiFi
 
 - OLED 屏幕的 Arduino library
 
