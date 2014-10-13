@@ -13,21 +13,16 @@
 
 - 编写SDK的Python接口
 
-- 更新SDK到2.9.6
-
-- 更新镜像从2.0.7到2.0.9：
+- 更新镜像从2.0.8到2.0.9：
 
     - 在新镜像中安装最新SDK，python-tk, python-dev
 
 - 写文档
 
-    - 目标：编写文档SDK相关
-    - 目录
-
-            1. ITEAD－SDK入门简介
-            2. 板载IR使用演示（根据键值做出相应）
-            3. I2C设备演示 （Python GUI）
-            4. SPI设备演示 （Python GUI）
+    1. ITEAD－SDK入门简介
+    2. 板载IR使用演示（根据键值做出相应）
+    3. I2C设备演示 （Python GUI）
+    4. SPI设备演示 （Python GUI）
           
 - 串口WIFI库的评估
 
